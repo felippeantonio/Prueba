@@ -1,2 +1,4 @@
 primera prueba clase 1
 https://github.com/felippeantonio/Prueba.git
+La siguiente url corresponde a la tarea asignada para github classroom de la clase 1
+  https://github.com/EstructuraDatosAlgoritmos-UST-02/intro-github-felippeantonio.git
